@@ -1,2 +1,5 @@
-- Hi, I’m Karl
-- I’m interested in drawing and stuff and I'm currently learning Python
+Matheus Rodrigues Fernandes da Nóbrega
+Estudante na FACAPE - Ciências da Computação
+Futuro programador
+
+Trabalhei com HTML, CSS, JavaScript, Python
